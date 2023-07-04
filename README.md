@@ -1,8 +1,8 @@
-# react-emoji-search 🦄
+# emoji-search 😼
 
 A simple emoji search tool made with ReactJS.
 
-![Screenshot of web app](https://res.cloudinary.com/lrmn/image/upload/v1688482867/lrmn.dev/emoji_f5a044.png)
+![Screenshot of web app](https://res.cloudinary.com/lrmn/image/upload/v1688494188/lrmn.dev/Screenshot_2023-07-05_at_01-09-31_Emoji_Search_i9wain.png))
 
 View it live: https://react-emoji.is-a.fun
 
