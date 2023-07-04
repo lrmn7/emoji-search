@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 To use this tool in your own projects, start by cloning this repository.
 
 ```sh
-git clone https://github.com/lrmn7/search-emoji
+git clone https://github.com/lrmn7/emoji-search
 ```
 
 Then once the folder is inside your code editor, install all the necessary packages.
@@ -49,6 +49,6 @@ Your app is ready to be deployed!
 
 ### Like my work?
 
-<a href="https://www.buymeacoffee.com/lrmn" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
+<a href="https://www.buymeacoffee.com/LRMN" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="210" ></a>
 
 Made by [@lrmn7](https://github.com/lrmn7)
