@@ -2,7 +2,7 @@
 
 A simple emoji search tool made with ReactJS.
 
-![Screenshot of web app](https://res.cloudinary.com/lrmn/image/upload/v1688482867/lrmn.dev/emoji_f5a044.png))
+![Screenshot of web app](https://res.cloudinary.com/lrmn/image/upload/v1688482867/lrmn.dev/emoji_f5a044.png)
 
 View it live: https://react-emoji.is-a.fun
 
